@@ -1,4 +1,4 @@
-chance_of_rain = 0.2
+chance_of_rain = 0.000000001
 
 
 if chance_of_rain <= 0.25
